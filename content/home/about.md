@@ -10,31 +10,41 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Blockchain",
+    "Crypto",
+    "Distributed systems",
+    "Decentralized systems",
+    "Security",
+    "Cryptography",
+    "Cryptocurrencies",
+    "Networked systems",
+    "Online privacy"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science - specializations: crypto and distributed systems"
+  institution = "Yale University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MPhil in Computer Science"
+  institution = "Yale University"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Master of Science in Computer Science"
+  institution = "Yale University"
+  year = 2011
+
+[[education.courses]]
+  course = "Bachelor of Arts in Computer Science"
+  institution = "University of Cambridge, UK"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+John Maheswaran is a PhD graduate in computer science at Yale University where he worked with Prof Bryan Ford in the decentralized and distributed systems group. He completed his undergraduate studies in computer science at the University of Cambridge (UK) where he worked with Turing Award Laureate the late Prof Robin Milner on models of computation and ubiquitous computing. His current research interests include blockchain, crypto, networking, security, privacy and distributed systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
