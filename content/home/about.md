@@ -46,5 +46,5 @@ weight = 5
 
 # Biography
 
-John Maheswaran is a PhD graduate in computer science at Yale University where he worked with Prof Bryan Ford in the decentralized and distributed systems group. He completed his undergraduate studies in computer science at the University of Cambridge (UK) where he worked with Turing Award Laureate the late Prof Robin Milner on models of computation and ubiquitous computing. His current research interests include blockchain, crypto, networking, security, privacy and distributed systems. 
+John is a PhD graduate in computer science at Yale University where he worked with Prof Bryan Ford in the decentralized and distributed systems group. He completed his undergraduate studies in computer science at the University of Cambridge (UK) where he worked with Turing Award Laureate the late Prof Robin Milner on models of computation and ubiquitous computing. His current research interests include blockchain, crypto, networking, security, privacy and distributed systems. 
 
